@@ -1,0 +1,4 @@
+SlideBarWidget
+==============
+
+SlideBarWidget for Android
